@@ -22,7 +22,7 @@ class CustomCardType3 extends StatelessWidget {
             image:NetworkImage('https://i.blogs.es/8eaa43/goku-day-dragon-ball/500_333.jpeg')
           )*/
           FadeInImage(
-          placeholder: const AssetImage('assets/banana-loading.gif'), 
+          placeholder: const AssetImage(''), 
           image: NetworkImage(imageURL),
           width:double.infinity,
           height: 240,
